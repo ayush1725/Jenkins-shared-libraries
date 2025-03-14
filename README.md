@@ -67,8 +67,4 @@ def call() {
 ## 📢 Disclaimer
 This project is for **practice and learning purposes only**. It may lack the security and optimizations required for production environments.
 
-Happy learning! 🚀
-
 ---
-
-Let me know if you’d like me to refine anything else or add more sections as you expand your library! ✌️
